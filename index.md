@@ -4,8 +4,8 @@ title: ElettroMind
 ---
 
 <!-- Includi CSS e JS -->
-<link rel="stylesheet" href="assets/css/custom.css">
-<script src="assets/js/script.js"></script>
+<link rel="stylesheet" href="assets/css/style.css">
+<script src="assets/js/main.js"></script>
 
 ![ElettroMind Logo](assets/images/logo.png){:style="width: 120px;"}
 
@@ -28,7 +28,7 @@ Studente di Ingegneria dell'Automazione – Politecnico di Milano
 
 ## 🧠 Portfolio
 
-<div class="card-grid">
+<div class="card-grid fade-in">
   <div class="card">Stampa 3D: supporto sensore</div>
   <div class="card">PCB sensore luce</div>
   <div class="card">App Android domotica</div>
