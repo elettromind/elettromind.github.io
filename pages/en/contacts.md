@@ -9,7 +9,7 @@ permalink: /pages/en/contacts.html
   <summary>🌍 Language</summary>
   <ul>
     <li><a href="/pages/it/contatti.html">🇮🇹 Italiano</a></li>
-    <li><a href="/pages/en/index.html">🇬🇧 English</a></li>
+    <li><a href="/pages/en/contacts.html">🇬🇧 English</a></li>
   </ul>
 </details>
 
