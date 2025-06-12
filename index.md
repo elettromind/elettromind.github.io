@@ -4,8 +4,8 @@ title: ElettroMind
 description: Home
 ---
 
-[English version](/pages/en/services.md)
+[English version](/pages/en/services.html)
 
-[Home](/index.md) | [Servizi](/pages/it/servizi.md) | [Progetti](/pages/it/progetti.md) | [Contatti](/pages/it/contatti.md)
+[Home](/index.html) | [Servizi](/pages/it/servizi.html) | [Progetti](/pages/it/progetti.html) | [Contatti](/pages/it/contatti.html)
 
 ***
