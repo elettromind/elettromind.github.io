@@ -27,7 +27,7 @@ permalink: /pages/en/services.html
 - [PLC programming](#plc-programming)
 - [Simulation of automations in virtual environment](#simulation-of-automations-in-a-virtual-environment)
 - [Electrical diagrams](#wiring-diagrams)
-- [Realisation of electrical boards](#Switchboard-construction)
+- [Realisation of electrical boards](#switchboard-construction)
 
 #### To see more concrete examples of my work, visit the **[Projects](/pages/en/projects.html)** section.
 
