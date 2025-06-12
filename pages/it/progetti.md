@@ -2,6 +2,7 @@
 layout: default
 title: ElettroMind
 description: Progetti
+permalink: /pages/it/progetti.html
 ---
 
 [English version](/pages/en/services.html)
