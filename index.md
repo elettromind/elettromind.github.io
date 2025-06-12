@@ -5,7 +5,10 @@ description: Home
 permalink: /index.html
 ---
 
-<img src="/assets/img/logo.png" alt="Logo ElettroMind" width="150">
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="/assets/logo.png" alt="Logo ElettroMind" width="80" />
+  <h1 style="margin: 0;">ElettroMind</h1>
+</div>
 
 <details>
   <summary>🌍 Language</summary>
