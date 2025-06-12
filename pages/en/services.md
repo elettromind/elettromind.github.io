@@ -25,7 +25,7 @@ permalink: /pages/en/services.html
 - [PCB design & realisation](#pcb-design--realisation)
 - [Konnex home automation systems](#konnex-home-automation-systems)
 - [PLC programming](#plc-programming)
-- [Simulation of automations in virtual environment](#simulation-of-automations-in-virtual-environment)
+- [Simulation of automations in virtual environment](#simulation-of-automations-in-a-virtual-environment)
 - [Electrical diagrams](#electrical-diagrams)
 - [Realisation of electrical boards](#realisation-of-electrical-boards)
 
