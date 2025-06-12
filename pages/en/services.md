@@ -22,12 +22,12 @@ permalink: /pages/en/services.html
 # Index
 - [3D modelling](#3d-modelling)
 - [3D printing](#3d-printing)
-- [PCB design & realisation](#design--realisation-PCB)
-- [Konnex home automation systems](#domotic-systems-konnex)
-- [PLC programming](#programming-plc)
+- [PCB design & realisation](#pcb-design--realisation)
+- [Konnex home automation systems](#konnex-home-automation-systems)
+- [PLC programming](#plc-programming)
 - [Simulation of automations in virtual environment](#simulation-of-automations-in-virtual-environment)
 - [Electrical diagrams](#electrical-diagrams)
-- [Realisation of electrical boards](#realisation-electrical-boards)
+- [Realisation of electrical boards](#realisation-of-electrical-boards)
 
 #### To see more concrete examples of my work, visit the **[Projects](/pages/en/projects.html)** section.
 
