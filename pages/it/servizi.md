@@ -26,4 +26,4 @@ permalink: /pages/it/servizi.html
 - Impianti domotici Konnex
 - Schemi elettrici
 - Realizzazione quadri elettrici
-
+- Applicazioni e siti Web
