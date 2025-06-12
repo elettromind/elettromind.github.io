@@ -2,6 +2,7 @@
 layout: default
 title: ElettroMind
 description: Contatti
+permalink: /pages/it/contatti.html
 ---
 
 [English version](/pages/en/services.html)
