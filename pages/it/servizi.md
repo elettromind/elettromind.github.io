@@ -24,6 +24,7 @@ permalink: /pages/it/servizi.html
 - Stampa 3D
 - Progettazione & realizzazione PCB
 - Impianti domotici Konnex
+- Programmazione PLC
+- Simulazione di automazioni in ambiente virtuale
 - Schemi elettrici
 - Realizzazione quadri elettrici
-- Applicazioni e siti Web
