@@ -4,8 +4,26 @@ title: ElettroMind
 description: Home
 permalink: /index.html
 ---
+<details>
+  <summary>🌍 Language</summary>
+  <ul>
+    <li><a href="/index.html">🇮🇹 Italiano</a></li>
+    <li><a href="/pages/en/index.html">🇬🇧 English</a></li>
+  </ul>
+</details>
 
-Italian | [English](/pages/en/services.html)
-[Home](/index.html) | [Servizi](/pages/it/servizi.html) | [Progetti](/pages/it/progetti.html) | [Contatti](/pages/it/contatti.html)
+***
+## [Servizi](/pages/it/servizi.html)
+Progettazione elettronica, automazione e stampa 3D con materiali all’avanguardia. 
+Scopri come trasformo le idee in soluzioni concrete e innovative.
+
+***
+## [Progetti](/pages/it/progetti.html)
+Progetti innovativi e su misura: dai un’occhiata alle soluzioni che ho realizzato.
+
+***
+## [Contatti](/pages/it/contatti.html)
+Hai una domanda, un’idea o vuoi un preventivo?  
+Contattami direttamente: sono disponibile per richieste tecniche, collaborazioni e consulenze.
 
 ***
