@@ -5,11 +5,6 @@ description: Home
 permalink: /index.html
 ---
 
-<div style="display: flex; align-items: center; gap: 15px;">
-  <img src="/assets/logo.png" alt="Logo ElettroMind" width="80" />
-  <h1 style="margin: 0;">ElettroMind</h1>
-</div>
-
 <details>
   <summary>🌍 Language</summary>
   <ul>
@@ -17,6 +12,8 @@ permalink: /index.html
     <li><a href="/pages/en/index.html">🇬🇧 English</a></li>
   </ul>
 </details>
+
+<img src="/assets/logo.png" alt="Logo ElettroMind" width="150">
 
 ***
 
