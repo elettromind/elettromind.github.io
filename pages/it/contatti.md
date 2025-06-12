@@ -24,9 +24,10 @@ ElettroMind è una realtà indipendente, specializzata nella progettazione e rea
 Per richieste commerciali, preventivi o semplici informazioni, puoi contattarci direttamente: risponderemo sempre rapidamente e con professionalità.
 
 **Email aziendale:** [elettromind@engineer.com](mailto:elettromind@engineer.com)
+
 **Sito web:** [https://elettromind.github.io/](https://elettromind.github.io/)  
 
-Seguici sui nostri canali social per rimanere aggiornato:  
+Segui i nostri canali social per rimanere aggiornato:  
 [Instagram](https://instagram.com/elettromind) | [TikTok](https://tiktok.com/@elettromind)
 
 ***
@@ -39,7 +40,7 @@ Sono Riccardo Trabucchi, il fondatore e unico professionista dietro ElettroMind.
 ***
 
 ## Dove siamo  
-Provincia di Lecco
+Provincia di Lecco, Italia
 
 ***
 
