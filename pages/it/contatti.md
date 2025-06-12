@@ -8,7 +8,7 @@ permalink: /pages/it/contatti.html
 <details>
   <summary>🌍 Language</summary>
   <ul>
-    <li><a href="/index.html">🇮🇹 Italiano</a></li>
+    <li><a href="/pages/it/contatti.html">🇮🇹 Italiano</a></li>
     <li><a href="/pages/en/contacts.html">🇬🇧 English</a></li>
   </ul>
 </details>
