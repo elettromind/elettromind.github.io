@@ -18,3 +18,7 @@ permalink: /pages/it/contatti.html
 [Home](/index.html) | [Servizi](/pages/it/servizi.html) | [Progetti](/pages/it/progetti.html) | [Contatti](/pages/it/contatti.html)
 
 ***
+
+# Pagina in costruzione
+
+Questa pagina è in fase di realizzazione. Torna presto per scoprire nuovi contenuti!
