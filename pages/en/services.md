@@ -26,8 +26,8 @@ permalink: /pages/en/services.html
 - [Konnex home automation systems](#konnex-home-automation-systems)
 - [PLC programming](#plc-programming)
 - [Simulation of automations in virtual environment](#simulation-of-automations-in-a-virtual-environment)
-- [Electrical diagrams](#electrical-diagrams)
-- [Realisation of electrical boards](#realisation-of-electrical-boards)
+- [Electrical diagrams](#wiring-diagrams)
+- [Realisation of electrical boards](#Switchboard-construction)
 
 #### To see more concrete examples of my work, visit the **[Projects](/pages/en/projects.html)** section.
 
