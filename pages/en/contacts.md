@@ -4,8 +4,8 @@ title: ElettroMind
 description: Contacts
 permalink: /pages/en/contacts.html
 ---
-[Versione italiana](/index.html)
+[Italian](/pages/it/contatti.html) | English
 
-[Home](/en/index.html) | [Services](/en/services.html) | [Projects](/en/projects.html) | [Contact](/en/contact.html)
+[Home](/pages/en/index.html) | [Services](/pages/en/services.html) | [Projects](/pages/en/projects.html) | [Contact](/pages/en/contact.html)
 
 ***
