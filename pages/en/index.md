@@ -2,9 +2,10 @@
 layout: default
 title: ElettroMind
 description: Home
+permalink: /pages/en/index.html
 ---
-[Versione italiana 🇮🇹](./index.md)
+[Versione italiana](/index.html)
 
-[Home](/en/index.md) | [Services](/en/services.md) | [Projects](/en/projects.md) | [Contact](/en/contact.md)
+[Home](/en/index.html) | [Services](/en/services.html) | [Projects](/en/projects.html) | [Contact](/en/contact.html)
 
 ***
