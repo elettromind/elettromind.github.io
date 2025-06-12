@@ -9,7 +9,7 @@ permalink: /pages/en/projects.html
   <summary>🌍 Language</summary>
   <ul>
     <li><a href="/pages/it/progetti.html">🇮🇹 Italiano</a></li>
-    <li><a href="/pages/en/index.html">🇬🇧 English</a></li>
+    <li><a href="/pages/en/projects.html">🇬🇧 English</a></li>
   </ul>
 </details>
 
