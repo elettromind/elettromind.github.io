@@ -29,7 +29,7 @@ permalink: /pages/it/servizi.html
 - [Schemi elettrici](#schemi-elettrici)
 - [Realizzazione quadri elettrici](#realizzazione-quadri-elettrici)
 
-### Per vedere più esempi concreti dei miei lavori, visita la sezione [Progetti](/pages/it/progetti.html).
+#### Per vedere più esempi concreti dei miei lavori, visita la sezione **[Progetti](/pages/it/progetti.html)**.
 
 ***
 
