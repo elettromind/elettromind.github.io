@@ -33,3 +33,7 @@ Hai una domanda, un’idea o vuoi un preventivo?
 Contattami direttamente: sono disponibile per richieste tecniche, collaborazioni e consulenze.
 
 ***
+
+---
+© 2025 ElettroMind, Riccardo Trabucchi — Tutti i diritti riservati  
+Sito Web realizzato da Riccardo Trabucchi
