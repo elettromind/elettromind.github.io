@@ -13,7 +13,7 @@ permalink: /index.html
   </ul>
 </details>
 
-<img src="/assets/logo.png" alt="Logo ElettroMind" width="150">
+<img src="/assets/img/logo.png" alt="Logo ElettroMind" width="150">
 
 ***
 
