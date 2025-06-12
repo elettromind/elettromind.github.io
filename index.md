@@ -5,7 +5,7 @@ description: Home
 permalink: /index.html
 ---
 
-![Logo](/assets/img/logo.png)
+<img src="/assets/img/logo.png" alt="Logo ElettroMind" width="150">
 
 <details>
   <summary>🌍 Language</summary>
