@@ -2,6 +2,7 @@
 layout: default
 title: ElettroMind
 description: Servizi
+permalink: /pages/it/servizi.html
 ---
 
 [English version](/pages/en/services.html)
