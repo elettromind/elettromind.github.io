@@ -5,6 +5,8 @@ description: Home
 permalink: /index.html
 ---
 
+![Logo](/assets/img/logo.png)
+
 <details>
   <summary>🌍 Language</summary>
   <ul>
