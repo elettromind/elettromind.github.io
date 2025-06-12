@@ -4,6 +4,7 @@ title: ElettroMind
 description: Servizi
 permalink: /pages/it/servizi.html
 ---
+
 <details>
   <summary>🌍 Language</summary>
   <ul>
@@ -11,6 +12,9 @@ permalink: /pages/it/servizi.html
     <li><a href="/pages/en/services.html">🇬🇧 English</a></li>
   </ul>
 </details>
+
 ***
+
 [Home](/index.html) | [Servizi](/pages/it/servizi.html) | [Progetti](/pages/it/progetti.html) | [Contatti](/pages/it/contatti.html)
+
 ***
