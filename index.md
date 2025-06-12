@@ -18,7 +18,7 @@ permalink: /index.html
 ***
 
 # [Servizi](/pages/it/servizi.html)
-***Progettazione elettronica, automazione e stampa 3D con materiali all’avanguardia.**
+**Progettazione elettronica, automazione e stampa 3D con materiali all’avanguardia.**
 **Scopri come trasformo le idee in soluzioni concrete e innovative.**
 
 ***
