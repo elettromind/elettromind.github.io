@@ -21,7 +21,7 @@ permalink: /pages/en/services.html
 
 # Index
 - [3D modelling](#3d-modelling)
-- [3D printing](#printing-3d)
+- [3D printing](#3d-printing)
 - [PCB design & realisation](#design--realisation-PCB)
 - [Konnex home automation systems](#domotic-systems-konnex)
 - [PLC programming](#programming-plc)
