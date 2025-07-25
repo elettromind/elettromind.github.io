@@ -29,11 +29,11 @@ Innovative and customised projects: take a look at the solutions I have realised
 ***
 
 # [Contacts](/pages/en/contacts.html)
-Do you have a question, an idea or would you like a quote?  
+Do you have a question, an idea or would you like a quote?
 Contact me directly: I am available for technical requests, collaborations and consultations.
 
 ***
 
 ---
-© 2025 ElettroMind, Riccardo Trabucchi - All rights reserved 
+© 2025 ElettroMind, Riccardo Trabucchi - All rights reserved
 Website created by Riccardo Trabucchi
