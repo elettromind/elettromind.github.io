@@ -36,5 +36,4 @@ Contact me directly: I am available for technical requests, collaborations and c
 
 ---
 © 2025 ElettroMind, Riccardo Trabucchi - All rights reserved
-
 Website created by Riccardo Trabucchi
